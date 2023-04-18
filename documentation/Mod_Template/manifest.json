@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "-DigitalMaster-'s Mod",
+    "description": "This mod is cool",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "-DigitalMaster-"
     },
     "icons":
     {
@@ -133,13 +133,13 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
+                        "h": 195,
                         "s": 100,
                         "l": 72
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
+                        "h": 195,
                         "s": 64,
                         "l": 16
                     }
@@ -148,13 +148,13 @@
                 {
                     "gx_accent":
                     {
-                        "h": 112,
+                        "h": 195,
                         "s": 80,
                         "l": 44
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
+                        "h": 195,
                         "s": 32,
                         "l": 16
                     }
